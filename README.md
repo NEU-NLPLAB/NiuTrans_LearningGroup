@@ -9,4 +9,6 @@
 * [论文](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper)
   * [NMT](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NMT)
     * [attention](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NMT/attention)
+    * [model compress](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NMT/model%20compress)
+  * [NER](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NER)
 
