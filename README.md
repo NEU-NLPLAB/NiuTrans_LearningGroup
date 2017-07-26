@@ -7,6 +7,6 @@
 ****
 ## 目录
 * [论文](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper)
-    * [NMT](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NMT)
-        * [attention](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NMT/attention)
+  * [NMT](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NMT)
+    * [attention](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NMT/attention)
 
