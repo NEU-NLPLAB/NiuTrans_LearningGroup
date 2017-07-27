@@ -11,6 +11,7 @@
     * [attention](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NMT/attention)
     * [model compression](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NMT/model%20compression)
   * [NER](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NER)
+  * [LM](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/LM)
 * [博客](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/blog)
   * [data parallel](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/blog/data%20parallel)
 
