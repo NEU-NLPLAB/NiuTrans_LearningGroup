@@ -25,7 +25,7 @@
     * [评价](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NMT/%E8%AF%84%E4%BB%B7)
     * [词汇表](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NMT/%E8%AF%8D%E6%B1%87%E8%A1%A8)
     * [领域适应](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NMT/%E9%A2%86%E5%9F%9F%E9%80%82%E5%BA%94)
-  * [NER](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NER)
+  * [NER](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/NER)
   * [LM](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/paper/LM)
 * [博客](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/blog)
   * [data parallel](https://github.com/NEU-NLPLAB/neu_nlplab_learning/tree/master/blog/data%20parallel)
